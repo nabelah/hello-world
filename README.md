@@ -1,2 +1,5 @@
 # hello-world
-My first ever Github repository!
+Hi Everyone!
+
+Nabelah here! I like coding and coffee shops - bringing the two together however... excellent!
+
